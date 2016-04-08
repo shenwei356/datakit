@@ -1,6 +1,9 @@
 # datakit
 
-CSV file manipulation and more
+CSV file manipulation and more.
+
+**Please use my another tool: [csvtk](https://github.com/shenwei356/csvtk), 
+Another cross-platform, efficient and practical CSV/TSV tool kit**
 
 ## intersection
 
@@ -8,7 +11,7 @@ Intersecion of multiple (>=2) files.
 
 ## unique
 
-`uniq` with no need for presorting.
+`uniq` with no need pre-sorting.
 
 ## csv2tab
 
